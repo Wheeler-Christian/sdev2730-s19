@@ -3,7 +3,7 @@
     "name": "sdev2730-s19",
     "slug": "sdev2730-s19",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
